@@ -64,7 +64,7 @@ const config = {
     allowedDomains: ['www.tydeconsult.com'],
     
     // Privacy policy URL (configurable)
-    privacyPolicyUrl: 'https://yourdomain.com/privacy-policy', // Add your full privacy policy URL here
+    privacyPolicyUrl: 'https://www.tydeconsult.com/#privacy-policy', // Add your full privacy policy URL here
 
 
    
